@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy GuilleCoder</a> 👋</h1>
 </div>
-<img link="https://github.com/Guillecoder/Guillecoder/issues/1#issue-2092143856">
+<img link="https://github.com/Guillecoder/Guillecoder/issues/1#issue-2092152379">
 
 
 ## Sobre mi
