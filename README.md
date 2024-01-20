@@ -15,11 +15,28 @@ Además, comparto mis conocimientos enseñando conceptos básicos de programaci�
 
 
 ## Proyectos:
-.
-.
-.
-.
-.
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
 
 
 
@@ -47,29 +64,31 @@ Además, comparto mis conocimientos enseñando conceptos básicos de programaci�
 </br>
 Y alguna más...
 
-## Algunos vídeos en YouTube:
+<br>
 
-<table style="width:100%">
+<br>
+
+## Algunos Tipa de Programación:
+
+<table style="width:30%">
 <tr>
 <td>
 <a href="https://www.youtube.com/shorts/ghzRYADRxbQ">
-<img src="">
+<img src="https://github.com/Guillecoder/Guillecoder/assets/114576973/6b4fb442-1a4e-472f-abaf-486608049a97">
 </a>
 </td>
 <td>
 <a href="https://www.youtube.com/shorts/EBO1QoodBNs">
-<img src="">
+<img src="https://github.com/Guillecoder/Guillecoder/assets/114576973/6b4fb442-1a4e-472f-abaf-486608049a97">
 </a>
 </td>
 <td>
 <a href="https://www.youtube.com/shorts/GD71LrWhDQI">
-<img src="">
+<img src="https://github.com/Guillecoder/Guillecoder/assets/114576973/6b4fb442-1a4e-472f-abaf-486608049a97">
 </a>
 </td>
 </tr>
 <tr>
 <td>
-<a href="https://www.youtube.com/shorts/-KOU8DUkE5U">
-<img src="">
-</a>
-</td>
+</table>
+
