@@ -52,7 +52,7 @@ entre otras...
 
 <br>
 
-## Algunos Tipa de Programación:
+## Algunos Tips de Programación:
 
 <table style="width:30%">
 <tr>
